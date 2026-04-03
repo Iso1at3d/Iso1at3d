@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey there, I'm Iso1at3d
 
-<!--
-**Iso1at3d/Iso1at3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about coding, creativity & building cool stuff  
+💻 Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 BTech student
+- 💡 Interested in **Python, Web Development & Automation**
+- 📈 Exploring **Algorithmic Trading & Tech Projects**
+- 🎬 Video & Photo Editing (2+ years experience)
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- Python 🐍
+- C (Beginner)
+
+### 🌐 Web & Tools
+- HTML, CSS (Learning 🚧)
+- Git & GitHub
+- VS Code
+
+## 🚀 Current Goals
+- 🔥 Master Python from beginner to advanced
+- 💻 Build real-world projects
+- 📊 Learn Data Structures & Algorithms
+
+## 📌 Projects
+- 🧠 LeetCode Challenge (75 Days)
+- 🤖 Automation scripts (coming soon...)
+
+
+## 🤝 Connect With Me
+- 💬 Always open to collaboration & learning
+
+## 🔥 Quote
+> "Hardwork beats Talent."
+
+---
+
+⭐ Don't forget to star my repo
