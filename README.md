@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 - 🎓 BTech student
-- 💡 Interested in **Python, Web Development & Automation, AI, ML,Data Science**
+- 💡 Interested in **Python, Web Development & Automation, AIML,Data Science**
 - 📈 Exploring **Algorithmic Trading & Tech Projects**
 - 🎬 Video & Photo Editing (2+ years experience)
 
