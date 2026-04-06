@@ -16,6 +16,8 @@
 ### 👨‍💻 Languages
 - Python 🐍
 - C (Beginner)
+- R
+- Java
 
 ### 🌐 Web & Tools
 - HTML, CSS (Learning 🚧)
